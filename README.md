@@ -6,12 +6,11 @@
 
 
 ### Modify CMakeLists.txt
-`set(name sp8)`
-
-`set(useROOT true)`
-
-`set(CMAKE_MODULE_PATH "/Users/tatsuno/cern/GEANT4/geant4.10.05-install/lib/Geant4-10.5.1/Modules")`
-
+```
+set(name sp8)
+set(useROOT true)
+set(CMAKE_MODULE_PATH "/Users/tatsuno/cern/GEANT4/geant4.10.05-install/lib/Geant4-10.5.1/Modules")
+```
 ### How to use
 `cd build`
 

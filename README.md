@@ -1,3 +1,12 @@
+### Version
+
+Geant4 10.5
+
+first released 7 December 2018 (patch-01, released 17 April 2019)
+
+ROOT 6.18/00
+
+
 ### Modify CMakeLists.txt
 
 set(name sp8)

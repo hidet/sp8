@@ -1,4 +1,4 @@
-###Modify CMakeLists.txt
+### Modify CMakeLists.txt
 
 set(name sp8)
 
@@ -16,7 +16,7 @@ make
 
 ./g4_sp8 mac/
 
-The .mac files in mac folder contain important parameters
+The .mac files in mac folder contain important parameters to specify the conditions
 
 You can specify,
 
